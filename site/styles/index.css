@@ -8,6 +8,7 @@
     text-align: center;
 }
 body{
+    background-color: lavender;
     width:100%;
   
 }
@@ -30,19 +31,23 @@ body{
     position: fixed;
     padding-top: 10px;
     
+    
+    
 }
 ul{
     list-style-type: none;
 }
 li{
     display: inline;
-
+}
+h1, h2, h3{
+    color: rgb(130, 0, 0);
 }
 .course, .about, .learning{
     float:right;
     padding-right: 100px;
     padding-bottom: 100px;
-    border-bottom:1PX double #f86254;
+    border-bottom:1PX double #a84d44;
 }
 footer{    
     position: fixed;
