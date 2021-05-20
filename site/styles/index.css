@@ -64,15 +64,8 @@ footer{
 
 
 @media screen and (max-width:1024px){
-
 }
-@media screen and (max-width:980px){
-    body{ background-color:#e2e9cb;}
-    .col-lg-4{width: 33.333%;}
-    .col-lg-6{width:50%;}
-    .col-lg-8{width:66.667%;}
-    .col-lg-12{width: 100%;}
-}   
+  
 @media screen and (max-width:768px){
     body{ background-color:#c1ebd7;}
     .col-md-5{width: 55%;}
@@ -83,7 +76,7 @@ footer{
             border-bottom:1PX double #f86254;
         }
 }
-@media screen and (max-width:320px){
+@media screen and (max-width:578px){
     body{ background-color:rgb(234, 218, 208);}
     .col-sm-10{width:100%}
     .pic{position: relative;
